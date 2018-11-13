@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author holgermueller
+ *
+ */
+module Maths {
+}
